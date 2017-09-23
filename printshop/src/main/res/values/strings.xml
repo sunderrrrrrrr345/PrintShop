@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PrintShop</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="print_image_button">Print Picture</string>
+    <string name="print_page_button">Print Page</string>
+
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris dignissim metus sit amet nisl aliquam, eget tincidunt velit consectetur. Suspendisse accumsan vel est nec facilisis. Fusce leo eros, ultricies quis viverra sit amet, bibendum eu elit. Morbi id nunc porttitor, consequat urna quis, imperdiet justo. Curabitur sagittis ornare nulla ac dictum. Maecenas dignissim turpis in justo pharetra, in malesuada nunc ultricies. Nunc vulputate sem nec urna accumsan, ut egestas neque placerat. Aenean interdum vestibulum nisi, vitae consequat urna. Ut ut dolor ac urna viverra tincidunt. Nullam faucibus cursus libero id hendrerit. In non leo eget enim adipiscing condimentum. Quisque faucibus neque in feugiat porttitor. Quisque sit amet felis quis lorem porta aliquam. Fusce luctus nunc a velit consectetur, eu lobortis ligula lacinia. Ut commodo lectus vel leo molestie bibendum.</string>
+
+</resources>
